@@ -1,0 +1,36 @@
+body{
+	background: tan;
+}
+
+h1{
+	text-align: left;
+	color: black;
+}
+
+p{
+	text-align: justify-all;
+	color: black;
+}
+
+h2{
+	text-align: center;
+	color: black;
+}
+
+img{
+	border-radius: 50%;
+	width: 300px;
+	height: 300px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+button{
+	background-color: white;
+	color: black;
+}
+
+ul{
+	color: black;
+}
